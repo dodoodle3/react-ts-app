@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+/* 追加 */
+input {
+  margin: 0.2rem 0 0.2rem 0;
+}
+
+button {
+  margin-left: 0.5rem;
+}
